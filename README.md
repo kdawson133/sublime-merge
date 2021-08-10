@@ -1,4 +1,4 @@
-##sublime-merge
+# sublime-merge
 
 Plugin for Sublime Merge, a cross platform text and code editor, available for Linux, Mac OS X, and Windows.
 
